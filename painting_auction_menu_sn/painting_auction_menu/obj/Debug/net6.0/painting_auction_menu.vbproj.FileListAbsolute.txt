@@ -1,0 +1,15 @@
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\bin\Debug\net6.0\painting_auction_menu.exe
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\bin\Debug\net6.0\painting_auction_menu.deps.json
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\bin\Debug\net6.0\painting_auction_menu.runtimeconfig.json
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\bin\Debug\net6.0\painting_auction_menu.dll
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\bin\Debug\net6.0\painting_auction_menu.pdb
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.AssemblyInfo.vb
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.dll
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\refint\painting_auction_menu.dll
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.pdb
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\painting_auction_menu.genruntimeconfig.cache
+D:\my-vbnet-projects\my-lab-4-shan-sn\painting_auction_menu_sn\painting_auction_menu\obj\Debug\net6.0\ref\painting_auction_menu.dll

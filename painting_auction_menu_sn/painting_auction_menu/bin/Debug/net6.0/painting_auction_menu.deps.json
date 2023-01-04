@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "painting_auction_menu/1.0.0": {
+        "runtime": {
+          "painting_auction_menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "painting_auction_menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+---------------CONSOLE APPLICATION----------------
+This Stack data structure is to store Painting Auction items. 
+Your program should display a menu of choices to operate the Stack data structure. 
+See the sample menu below:
+As an auction, there are only 20 items to be sold at a time.
+
+==================================================
+               Painting Auction Menu 
+================================================== 
+1. Add items (Add item to the list)
+
+2. Delete items (Delete item from the list) [ONLY IF NOT SOLD]
+
+3. Edit item (change price or status) [ONLY IF NOT SOLD]
+
+4. Show all items (title. author, price, status, rank) [See display below]
+
+5. Show min and max items (by price) [ONLY IF NOT SOLD]
+
+6. Find an item (Author or Title) - [YES FULL NAME OR FULL TITLE]
+
+7. Exit
+
+Display as is:
+=================================================================================================
+No.	Artists Name 		Picture Title 		Rank		Price $	 	Sold $$
+1	Michael Angel  		Mon Li 			1 		$50,000		-Not Sold-
+2	James Hire 		The flower 		5 		$1,000		$200
+3	Alysha Lowery 		Masterpiece 		10 		$50,000		-Not Sold-
+4	Taylor Bird 		TheRainbow 		7 		$45,000		-Not Sold-
+5	Robert Hockey 		Scribble 		2 		$100.00		-Not Sold-
+==================================================================================================
+
+
+-----------ooooooooo----------------
+The program is password protected
+Numerical Validation
+Sold Items are not editable
+User Friendly
+SWAG FTW - Clear console each time the menu is shown
+YES you can use MSGBOX and INPUTBOX
+The use of Structure is recommanded
